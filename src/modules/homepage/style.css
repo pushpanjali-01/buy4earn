@@ -1,0 +1,172 @@
+.homepage-banner {
+    padding-top: 50px;
+    height: 600px;
+    background: radial-gradient(40.74% 252.14% at 46.22% 53.27%, #FFFFFF 0%, #69CF4F 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    ;
+}
+
+.homepage-banner-image img {
+    width: 80%;
+
+}
+
+.homepage-banner-image {
+    justify-content: right;
+    align-items: center;
+    display: flex;
+}
+
+.homepage-banner-left-setion {
+    padding-top: 40px;
+}
+
+.homepage-banner-heading {
+    font-size: 55px;
+    line-height: 70px;
+    color: black;
+    font-weight: bold;
+}
+
+.homepage-banner-sub-heading {
+    font-size: 22px;
+    text-align: justify;
+    width: 484px;
+    font-family: Red Hat Display;
+}
+
+.dark-button button {
+    width: 250px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    /* font-weight: bold; */
+    /* font-size: 24px; */
+    font-family: Red Hat Display;
+}
+
+.dark-button {
+    padding-top: 20px;
+}
+
+.hompage-section {
+    /* height: 650px; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: Red Hat Display;
+}
+
+.section-heading {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.section-sub-heading {
+    padding-top: 20px;
+    text-align: justify;
+    font-size: 20px;
+    color: #868787;
+}
+
+.section-sub-heading-logo {
+    padding-top: 60px;
+    text-align: justify;
+    font-size: 20px;
+    color: #868787;
+}
+
+.logo_img {
+    height: 90px;
+    /* margin-bottom: 60px; */
+}
+
+
+.homepage-section-row {
+    padding-top: 50px;
+}
+
+.left-section {
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.grozep-logo-dark img {
+    width: 80%;
+}
+
+.dot1 img {
+    position: absolute;
+    left: 0.07%;
+    right: 94.2%;
+    top: 6.56%;
+    bottom: 98.07%;
+}
+
+.dot2 img {
+    position: absolute;
+    left: 33.84%;
+    right: 62.42%;
+    top: -0.1%;
+    bottom: 98.72%;
+}
+
+.dot3 img {
+    position: absolute;
+    left: 2.56%;
+    right: 93.43%;
+    top: 83.12%;
+    bottom: 81.46%;
+}
+
+.dot4 img {
+    position: absolute;
+    left: 1.16%;
+    right: 91.84%;
+    top: 69.08%;
+    bottom: 78.5%;
+
+}
+
+.dot5 img {
+    position: absolute;
+    left: 96.04%;
+    right: 0.95%;
+    top: 14.11%;
+    bottom: 96.47%;
+
+}
+
+.dot6 img {
+    position: absolute;
+    left: 92.01%;
+    right: 4.25%;
+    top: 30.43%;
+    bottom: 92.2%;
+
+}
+
+.dot7 img {
+    position: absolute;
+    left: 95.23%;
+    right: 0.76%;
+    top: 75.6%;
+    bottom: 79.98%;
+
+}
+
+.dot8 img {
+    position: absolute;
+    left: 92.29%;
+    right: 3.97%;
+    top: 87.5%;
+    bottom: 77.12%;
+
+}
+
+@media (min-width: 320px) and (max-width:480px) {
+    
+}

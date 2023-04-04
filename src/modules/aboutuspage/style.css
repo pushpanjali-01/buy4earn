@@ -1,0 +1,38 @@
+.aboutus-banner {
+    height: 630px;
+    padding-top: 50px;
+}
+
+.aboutus-banner-image img {
+    width: 80%;
+}
+
+.aboutus-banner-image {
+    text-align: center;
+}
+
+.aboutus-page-section {
+    text-align: justify;
+}
+
+.aboutus-section {
+    font-size: 20px;
+    color: #868787;
+    padding-top: 30px;
+    font-family: Red Hat Display;
+}
+
+.aboutus-heading {
+    font-family: Red Hat Display;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 66px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+@media (min-width: 320px) and (max-width:480px) {
+
+}

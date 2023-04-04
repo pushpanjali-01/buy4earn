@@ -1,0 +1,34 @@
+.privacy-banner{
+    height: 650px;
+    padding-top: 100px;
+}
+.privacy-banner-image img{
+    width: 100%;
+}
+.privacy-section{
+    text-align: justify;
+}
+.privacy-heading{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.privacy-sub-heading{
+    font-size: 25px;
+    color:#696969;
+    font-family: Red Hat Display;
+}
+.privacy-list ul li{
+    padding-top: 20px;
+    font-size: 25px;
+    color:#696969;
+}
+
+.privacy-section-main{
+    padding-bottom:10px;
+}
+
+@media (min-width: 320px) and (max-width:480px) {
+    
+}

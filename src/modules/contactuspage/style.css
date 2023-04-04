@@ -1,0 +1,59 @@
+.contactus-banner {
+    height: 650px;
+    padding-top: 100px;
+}
+
+.contactus-banner-image img {
+    width: 100%;
+}
+
+.contact-subsection {
+    background-color:#F7F8F8;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    text-align: center;
+    height: 650px;
+}
+
+.contact_us {
+    padding-top: 130px;
+    padding-bottom: 40px;
+    background-color: #F7F8F8;
+    height: 600px;
+}
+
+.contact_details {
+    padding-top: 40px;
+}
+
+.contact_img img {
+    width: 80px;
+}
+
+.number {
+    color: black;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.address_text {
+    font-size: 20px;
+    color: #696969;
+}
+
+.contact-heading {
+    font-size: 20px;
+}
+
+.contact-sub-heading {
+    font-size: 20px;
+    color: #9B9B9B;
+}
+
+.contact-description {
+    padding-top: 30px;
+}
+
+@media (min-width: 320px) and (max-width:480px) {
+    
+}

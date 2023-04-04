@@ -1,0 +1,96 @@
+.footer-section {
+    background-color: black;
+    /* padding-top: 60px; */
+    height: 400px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+
+.divider {
+    width: 100%;
+    background-color: rgb(49, 47, 47);
+    height: 1px;
+    margin-top: 15px;
+}
+
+/* .footer-logo{
+    text-align: center;
+    justify-content: initial;
+    display: flex;
+    align-items: center;
+} */
+.footer-col1 {
+    text-align: center;
+    justify-content: initial;
+    display: flex;
+    align-items: center;
+}
+
+.footer-col2 {
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+
+.footer-col3 {
+    text-align: end;
+    align-items: center;
+    display: flex;
+    justify-content: end;
+}
+
+.footer-logo img {
+    width: 80%;
+    height: 175px;
+}
+
+.footer-heading {
+    color: #ffff;
+}
+
+.footer-sub-heading {
+    color: #9c9797;
+}
+
+.footer-list ul {
+    list-style-type: none;
+}
+
+.footer-list ul li a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #fff;
+}
+
+.footer {
+    padding-top: 60px;
+}
+
+.footer-copy-right {
+    text-align: left;
+    color: #9c9797;;
+}
+
+.footer-country {
+    text-align: end;
+    color: #9c9797;;
+}
+
+.footer-down-section {
+    padding-top: 20px;
+}
+
+.footer-column {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-heading-company{
+    font-size: 13px;
+    color: #fff;
+}
+
+@media (min-width: 320px) and (max-width:480px) {
+    
+}

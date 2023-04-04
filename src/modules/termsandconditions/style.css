@@ -1,0 +1,33 @@
+.terms-banner{
+    height: 650px;
+    padding-top: 50px;
+}
+.terms-banner-image img{
+    width: 100%;
+}
+.terms-section{
+    text-align: justify;
+}
+.terms-heading{
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.terms-sub-heading{
+    font-size: 25px;
+    color:#696969;
+    padding-top: 20px;
+}
+
+.terms-list ul li{
+    padding-top: 20px;
+    font-size: 25px;
+    color:#696969;
+}
+.terms-section{
+    padding-bottom:10px;
+}
+
+@media (min-width: 320px) and (max-width:480px) {
+
+}
